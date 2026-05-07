@@ -1,7 +1,7 @@
 # 🚀 NPanel: High-Performance Distributed Connectivity Infrastructure
 
 <p align="center">
-  <img src="https://npanel.dev/logo.png" alt="NPanel Logo" width="160">
+  <img src="https://npanel.dev/logo-white.png" alt="NPanel Logo" width="160">
   <br>
   <b>重塑底层架构，让连接归于简单</b>
   <br>
